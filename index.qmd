@@ -1,5 +1,5 @@
 ---
-title: "yuyaosun"
+title: "Tuesday"
 listing:
   contents: posts
   sort: "date desc"
